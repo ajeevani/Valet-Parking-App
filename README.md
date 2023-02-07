@@ -4,7 +4,7 @@ This a valet parking application that allows users to register their vehicles be
 The lot contains 10 parking spots with an option of carwash while parked.
 The app uses the following features:
 
-- Temporary Database to save / restore data from previous session
+- CSV Database to save / restore data from previous session
 - A feature to save the cars for next session 
 - A feature to remove (tow) all cars at the end of the day
 - A feature to add cars & motorcycles in the next available spot 
